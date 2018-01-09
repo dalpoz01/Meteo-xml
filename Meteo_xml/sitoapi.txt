@@ -1,0 +1,1 @@
+http://api.openweathermap.org/data/2.5/forecast?q=Padova,it&lang=it&units=metric&mode=xml&appid=cfb167eee572b912f8df485749d839d4
